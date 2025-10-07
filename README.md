@@ -1,6 +1,6 @@
 # SyncTrader: Interactive Broker Sync Demo
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/SyncTrader-20251007-041951)
 
 SyncTrader is a visually stunning, minimalist web application designed to demonstrate the core functionalities of a library like 'ib-insync' for interacting with the Interactive Brokers trading platform. The application provides a simulated, real-time trading dashboard experience, allowing users to visualize portfolio management, market data subscriptions, and order placements. All data is mocked on the frontend to create a safe yet realistic demonstration environment. The UI is built with a focus on clarity, responsiveness, and aesthetic excellence, featuring a clean, dark-themed interface ideal for financial applications.
 
@@ -72,7 +72,7 @@ This project is configured for seamless deployment to Cloudflare Workers.
 
 You can deploy this application to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/SyncTrader-20251007-041951)
 
 ### Manual Deployment via Wrangler
 
